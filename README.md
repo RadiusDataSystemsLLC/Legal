@@ -1,4 +1,4 @@
-# Legal Policies 
+# RDS Service Policy Index
 
 All applications and systems that we maintain or operate have their own separate policies and procedures. Information on those policies and procedures can be found here:
 
