@@ -1,6 +1,6 @@
-<h1 id="data-deletion-policy">Data Deletion Policy</h1>
+<h1 id="data-deletion-policy">DATA DELETION POLICY</h1>
 <p><code>Last Updated: February 09, 2023</code></p>
-<p>Other applications and systems that we maintain or operate have their own separate policies and procedures. Information on those can be accessed here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/wiki">https://github.com/RadiusDataSystemsLLC/Legal/wiki</a>. This policy relates only to the corporate website (<a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a>) and any website of ours that links to this data deletion policy.</p>
+<p>Other applications and systems that we maintain or operate have their own separate policies and procedures. Information on those can be accessed here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/blob/main/README.md">RDS Service Policy Index</a>. This policy relates only to the corporate website (<a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a>) and any website of ours that links to this data deletion policy.</p>
 <h2 id="purpose">Purpose</h2>
 <p>This document sets out our policy for responding to requests for deletion of data under data protection law. This document explains the rights of the data subject in relation to data deletion and the responsibilities of Radius Data Systems, LLC in responding with such a request.</p>
 <h2 id="individual-rights">Individual Rights</h2>
@@ -22,6 +22,6 @@
 <li>Device Information e.g. device type and screen size (this can help us to make sure that our website functions correctly in the devices used to access our site).</li>
 <li>Referring Data e.g. a search engine link (this can help us to understand which search engines are helping visitors to find our website).</li>
 </ul>
-<p>This data is stored and used in accordance with our Privacy Policy, which can be found at: <a href="https://github.com/RadiusDataSystemsLLC/Legal/wiki/RDS-Corporate-Website-Privacy-Policy">https://github.com/RadiusDataSystemsLLC/Legal/wiki/RDS-Corporate-Website-Privacy-Policy</a></p>
+<p>This data is stored and used in accordance with our Privacy Policy, which can be found here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/blob/main/Corporate%20Website/PrivacyPolicy.md">PRIVACY POLICY</a></p>
 <h2 id="how-can-data-be-deleted-">How can data be deleted?</h2>
 <p>Collected information may be deleted upon request to <a href="mailto:support@radiusdatasystems.com">support@radiusdatasystems.com</a>. We undertake to perform the deletion within one month (30 calendar days) and will send you a confirmation once the information has been deleted. Wherever possible, we will aim to complete the request in advance of the deadline.</p>
