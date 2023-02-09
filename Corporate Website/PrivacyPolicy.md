@@ -33,7 +33,7 @@
 <p>We do not process or collect sensitive information via the act of accessing <a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a>.</p>
 <p>All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.</p>
 <h2 id="information-automatically-collected">Information automatically collected</h2>
-<p><em><strong>In Short:</strong></em> <em>Some information - such as your Internet Protocol (IP) address and/or browser and device characteristics  is collected automatically when you visit our Services.</em></p>
+<p><em><strong>In Short:</strong></em> <em>Some information - such as your Internet Protocol (IP) address and/or browser and device characteristics are collected automatically when you visit our Services.</em></p>
 <p>We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.</p>
 <p>Like many businesses, we also collect information through cookies and similar technologies. You can find out more about this in our Cookie Notice: <a href="https://github.com/RadiusDataSystemsLLC/Legal/wiki/RDS-Corporate-Website---Cookie-Policy">https://github.com/RadiusDataSystemsLLC/Legal/wiki/RDS-Corporate-Website---Cookie-Policy</a>.</p>
 <h3 id="the-information-we-collect-includes-">The information we collect includes:</h3>
@@ -131,7 +131,7 @@
 <p>We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.</p>
 <h2 id="do-we-collect-information-from-minors-">DO WE COLLECT INFORMATION FROM MINORS?</h2>
 <p><em><strong>In Short:</strong></em> <em>We do not knowingly collect data from or market to children under 18 years of age.</em></p>
-<p>We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependents use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at <a href="mailto:support@radiusdatasystems.com">support@radiusdatasystems.com</a>.</p>
+<p>We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at <a href="mailto:support@radiusdatasystems.com">support@radiusdatasystems.com</a>.</p>
 <h2 id="what-are-your-privacy-rights-">WHAT ARE YOUR PRIVACY RIGHTS?</h2>
 <p><em><strong>In Short:</strong></em> <em>In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.</em></p>
 <p>In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section &quot;<em>HOW CAN YOU CONTACT US ABOUT THIS NOTICE?</em>&quot; below.</p>
@@ -212,7 +212,7 @@ Gender and date of birth.</p>
 <li><strong>Collected?</strong> - NO</li>
 </ul>
 </li>
-<li><p><strong>K. Inferences drawn from other personal information</strong> - Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individuals preferences and characteristics.</p>
+<li><p><strong>K. Inferences drawn from other personal information</strong> - Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics.</p>
 <ul>
 <li><strong>Collected?</strong> - NO</li>
 </ul>
@@ -269,7 +269,7 @@ Gender and date of birth.</p>
 <li>the specific pieces of personal information we collected about you.</li>
 </ul>
 <p>In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.</p>
-<p><strong>Right to Non-Discrimination for the Exercise of a Consumers Privacy Rights:</strong></p>
+<p><strong>Right to Non-Discrimination for the Exercise of a Consumer's Privacy Rights:</strong></p>
 <p>We will not discriminate against you if you exercise your privacy rights.</p>
 <p><strong>Right to Limit Use and Disclosure of Sensitive Personal Information:</strong></p>
 <p>We do not process consumer&#39;s sensitive personal information.</p>
