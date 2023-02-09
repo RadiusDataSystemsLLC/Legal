@@ -1,4 +1,4 @@
-<h1 id="cookie-policy-for-radius-data-system-s-corporate-website">Cookie Policy for Radius Data System&#39;s Corporate Website</h1>
+<h1 id="cookie-policy-for-radius-data-system-s-corporate-website">COOKIE POLICY</h1>
 <p><code>Last Updated: February 09, 2023</code></p>
 <p>This is the Cookie Policy for the Radius Data Systems corporate website, accessible from <a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a></p>
 <p>Other applications and systems that we maintain or operate have their own separate policies and procedures. Information on those can be accessed here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/wiki">https://github.com/RadiusDataSystemsLLC/Legal/wiki</a>. This policy relates only to the corporate website (<a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a>) and any website of ours that links to this cookie policy.</p>
