@@ -1,7 +1,7 @@
 <h1 id="cookie-policy-for-radius-data-system-s-corporate-website">COOKIE POLICY</h1>
 <p><code>Last Updated: February 09, 2023</code></p>
 <p>This is the Cookie Policy for the Radius Data Systems corporate website, accessible from <a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a></p>
-<p>Other applications and systems that we maintain or operate have their own separate policies and procedures. Information on those can be accessed here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/wiki">https://github.com/RadiusDataSystemsLLC/Legal/wiki</a>. This policy relates only to the corporate website (<a href="https://www.radiusdatasystems.com">https://www.radiusdatasystems.com</a>) and any website of ours that links to this cookie policy.</p>
+<p>Other applications and systems that we maintain or operate have their own separate policies and procedures. Information on those can be accessed here: <a href="https://github.com/RadiusDataSystemsLLC/Legal/blob/main/README.md" target="_blank">RDS Service Policy Index</a>. This policy relates only to the corporate website (<a href="https://www.radiusdatasystems.com" target="_blank">https://www.radiusdatasystems.com</a>) and any website of ours that links to this cookie policy.</p>
 <h2 id="what-are-cookies">What Are Cookies</h2>
 <p>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or &#39;break&#39; certain elements of the sites functionality.</p>
 <h2 id="how-we-use-cookies">How We Use Cookies</h2>
@@ -26,4 +26,4 @@
 <a href="https://statcounter.com/about/legal/#privacy">https://statcounter.com/about/legal/#privacy</a></p>
 <h2 id="more-information">More Information</h2>
 <p>Hopefully that has clarified things for you, if you are still looking for more information then you can contact us through one of our preferred contact methods:</p>
-<p>Email: <a href="mailto:info@radiusdatasystems.com">info@radiusdatasystems.com</a></p>
+<p>Email: <a href="mailto:support@radiusdatasystems.com">support@radiusdatasystems.com</a></p>
